@@ -12,6 +12,8 @@ VOCALOID3で使用できるJob Pluginです。
 a, i, M, e, o の各母音に対応する値を設定することで、それぞれの母音を持つノートのGENの値を変更します。
 日本語ライブラリにのみ対応しています。また、複数の母音を含むノートでは、最後の母音のみ認識されます。
 
+[サンプル1](https://soundcloud.com/bucchigiri/vowel2gen-1)
+
 ### パラメータ
 
 * **add to existing control** 既存のGENに加算するときはチェック
